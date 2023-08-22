@@ -1,0 +1,6 @@
+
+spring:
+  # PERFIL EN USO
+  profiles:
+    #active: default
+    active: dev
