@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: es-sucursal
+  cloud:
+    config:
+      uri: http://10.35.2.46:8888/
+  # PERFIL EN USO
+  profiles:
+    #active: default
+    active: dev
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh
