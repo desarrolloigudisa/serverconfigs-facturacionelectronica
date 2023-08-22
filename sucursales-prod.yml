@@ -1,5 +1,4 @@
-sucursales:
-  property: Sucursales Profile Prod
+
 spring:
   profiles:
     active: prod
