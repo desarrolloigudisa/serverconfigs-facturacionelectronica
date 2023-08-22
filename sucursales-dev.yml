@@ -1,3 +1,5 @@
+sucursales:
+  property: Sucursales Profile Dev
 spring:
   application:
     name: es-sucursal
